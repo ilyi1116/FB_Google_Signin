@@ -9,5 +9,8 @@
 #ifndef ILYIFB_Bridging_Header_h
 #define ILYIFB_Bridging_Header_h
 
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import <Google/SignIn.h>
 
 #endif /* ILYIFB_Bridging_Header_h */

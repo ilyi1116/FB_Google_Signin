@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+pod 'AsyncDisplayKit', '~> 1.9.2'
+pod 'FBSDKCoreKit', '~> 4.8.0'
+pod 'FBSDKLoginKit', '~> 4.8.0'
+pod 'Google/SignIn'
